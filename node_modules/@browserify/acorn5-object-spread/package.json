@@ -1,0 +1,23 @@
+{
+  "name": "@browserify/acorn5-object-spread",
+  "description": "Support for rest and spread properties in acorn 5",
+  "version": "5.0.1",
+  "contributors": [
+    "Darío Javier Cravero <dario@uxtemple.com>",
+    "Adrian Heine <mail@adrianheine.de>",
+    "Bret Comnes <bcomnes@gmail.com>"
+  ],
+  "dependencies": {
+    "acorn": "^5.2.1"
+  },
+  "homepage": "https://github.com/browserify/acorn5-object-spread",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/browserify/acorn5-object-spread"
+  },
+  "scripts": {
+    "test": "node test/run.js"
+  }
+}
